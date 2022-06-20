@@ -1,0 +1,43 @@
+# nav links 
+- le360 url: /
+- Politique url: /politique
+- Economie url: /economie
+- Société url: /societe
+- International url: /monde
+- Culture url: /culture
+- Médias url: /medias
+- Sports url: //sport.le360.ma
+- People url: /people
+- Lifestyle url: /lifestyle
+- Blogs 360 url: /blogs360
+- courriel url: #
+- rechercher url: #
+- العربية url: //ar.le360.ma
+# footer links 
+- Politique url: /politique
+- Economie url: /economie
+- Société url: /societe
+- International url: /monde
+- Culture url: /culture
+- Médias url: /medias
+- Automobile url: /automobile
+- Sports url: /sports
+- People url: /people
+- Lifestyle url: /lifestyle
+- Qui sommes-nous? url: /qui-sommes-nous
+- FAQ url: /faq
+- Mentions légales url: /mentions-legales
+- Contact url: /contact
+- Publicité url: /publicite
+- Site Map url: /sitemap.php
+- Coronavirus Maroc url: /covidmaroc
+- Application Mobile url: https://m.le360.ma/app
+- Version mobile url: https://m.le360.ma
+- Archives url: /archives
+- Nos liens url: /archives/google
+- facebook url: https://www.facebook.com/le360.ma
+- twitter url: https://twitter.com/Le360fr
+- youtube url: https://www.youtube.com/user/Le360Live?sub_confirmation=1
+- linkedin url: https://www.linkedin.com/company/le360webnews/
+- Instagram url: https://instagram.com/le360fr/
+- le360 url: /
